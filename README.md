@@ -30,6 +30,8 @@ Re-evaluate at intervals.
 
 * Be frugal no matter how much you think you have.
 
+* You don't control what happens, you control how you respond
+
 ## About growing
 
 * Just getting older is not an achievement.
@@ -136,13 +138,13 @@ Re-evaluate at intervals.
 
 * Action often precedes motivation. Don't wait for motivation to come.
 
-* Dolce far niente, the sweetness of doing nothing.
+* Embrace the dolce far niente, the sweetness of doing nothing.
 
 ## Never talk about politics and society
 
 * The best a state can do is to slow down deterioration.
 
-* Humans can't govern other humans.
+* Humans should not govern humans.
 
 * Homogenous and collectivist societies promote stability through identity. Heterogeneous and individualistic societies promote progress through friction.
 
@@ -182,7 +184,7 @@ Re-evaluate at intervals.
 
 * The second best line of code is the one you can delete.
 
-* Python is only good for a few things.
+* Invest time in learning the basic tools of the trade, it often correlates to the overall skill as developer.
 
 * SQL is the most important tool at your disposal.
 
@@ -192,9 +194,9 @@ Re-evaluate at intervals.
 
 * A good architect finds balance between abstraction and the complexity it inherently introduces.
 
-* Sharing code as a library is often the wrong, duplication the right choice. It's better to trade verbosity with flexibility.
+* Sharing code as a library is often the wrong, duplication the right choice. It's better to trade verbosity for flexibility.
 
-* Always start with a monolithic approach.
+* Always start with the most simplistic approach.
 
 * It’s quicker to write ten big balls of mud and see where it gets you than try to polish a single turd.
 
