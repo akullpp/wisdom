@@ -12,8 +12,6 @@ Re-evaluate at intervals.
 
 - Actual costs are often twice the listed price.
 
-- Free or used books have the same words as new ones.
-
 - Buy a tourist guidebook to your home town or region.
 
 - Don't wait in line, it's rarely worth it.
