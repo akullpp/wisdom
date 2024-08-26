@@ -30,6 +30,8 @@ Re-evaluate at intervals.
 
 - You don't control what happens, you control how you respond
 
+- Pressure and persuasion results in the strengthening or adoption of a contrary belief, e.g. DEI, climate change, etc.
+
 ## About growing
 
 - Just getting older is not an achievement.
