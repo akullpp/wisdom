@@ -28,9 +28,9 @@ Re-evaluate at intervals.
 
 - Be frugal no matter how much you think you have.
 
-- You don't control what happens, you control how you respond
+- You don't control what happens, you control how you respond.
 
-- Pressure and persuasion results in the strengthening or adoption of a contrary belief, e.g. DEI, climate change, etc.
+- Pressure and persuasion results in the strengthening or adoption of a contrary belief.
 
 ## About growing
 
@@ -153,6 +153,10 @@ Re-evaluate at intervals.
 - The chances that you live in a bubble is very high. You start to assume that the majority of all people are reasonable and want the same as you do.
 
 - Humanity isn't as advanced as you think. Our societies are fragile.
+
+- Wars are always about money and power and only the few profit.
+
+- Left and right, conservative and liberal are insufficient terms. Humans can hold complex and often contradictory beliefs, there were believing Nazis that saved jews.
 
 ## Creating stuff
 
